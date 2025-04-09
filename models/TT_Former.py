@@ -2,7 +2,7 @@
 Time Text Former
 """
 import sys
-sys.path.append('/dataYYF/dataWX/WYL/Time-QA/')
+
 import math
 import torch
 import torch.nn.functional as F
